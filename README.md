@@ -110,10 +110,3 @@ Portfolio: https://krishdua.vercel.app
 LinkedIn: https://www.linkedin.com/in/krish-dua
 
 ---
-
-## Future Scope
-
-- Add support for real-time sound classification via microphone
-- Experiment with other architectures (CNN + LSTM, Transformers)
-- Use spectrograms instead of MFCCs for better spatial representation
-- Integrate with Streamlit or Flask for web-based demo
