@@ -107,6 +107,6 @@ https://urbansounddataset.weebly.com/urbansound8k.html
 
 **Krish Dua**  
 Portfolio: https://krishdua.vercel.app  
-LinkedIn: https://www.linkedin.com/in/krish-dua
+LinkedIn: https://www.linkedin.com/in/krish-dua-9202a4272/
 
 ---
