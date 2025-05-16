@@ -91,7 +91,7 @@ This project allows you to:
 - **Audio Files Folder**: `UrbanSound8K/audio/`
 
 You can download the dataset from:  
-https://urbansounddataset.weebly.com/urbansound8k.html
+https://goo.gl/8hY5ER
 
 ---
 
